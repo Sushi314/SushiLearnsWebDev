@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "This is where sushi will learn backend webdev",
   "main": "index.js",
-  "author": "Your Name",
+  "author": {
+    "name": "Sushi",
+    "email": "example@example.com"
+  },
   "license": "MIT"
 }
 
