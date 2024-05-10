@@ -1,23 +1,9 @@
 {
-  "name": "fcc-learn-npm-package-json",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": "8.11.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sushi314/SushiLearnsWebDev.git"
-  },
-  "author": "Sushi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sushi314/SushiLearnsWebDev/issues"
-  },
-  "homepage": "https://github.com/Sushi314/SushiLearnsWebDev#readme"
+  "name": "SushiLearningWebDev",
+  "version": "1.0.0",
+  "description": "This is where sushi will learn backend webdev",
+  "main": "index.js",
+  "author": "Your Name",
+  "license": "MIT"
 }
+
