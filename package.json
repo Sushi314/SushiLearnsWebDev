@@ -1,10 +1,14 @@
 {
-  "name": "sushilearnswebdev",
-  "version": "1.0.0",
-  "description": "This is where sushi will learn backend webdev",
-  "main": "index.js",
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
   },
   "repository": {
     "type": "git",
