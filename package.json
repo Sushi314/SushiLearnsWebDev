@@ -1,0 +1,19 @@
+{
+  "name": "sushilearnswebdev",
+  "version": "1.0.0",
+  "description": "This is where sushi will learn backend webdev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushi314/SushiLearnsWebDev.git"
+  },
+  "author": "Sushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushi314/SushiLearnsWebDev/issues"
+  },
+  "homepage": "https://github.com/Sushi314/SushiLearnsWebDev#readme"
+}
